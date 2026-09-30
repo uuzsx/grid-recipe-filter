@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.gridrecipefilter.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["RecipeBookComponentMixin", "CraftingRecipeBookComponentMixin", "ClientPacketListenerAccess", "ClientRecipeBookAccess", "ClientRecipeBookMixin", "RecipeButtonMixin", "RecipeCollectionMixin", "GhostSlotsMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
