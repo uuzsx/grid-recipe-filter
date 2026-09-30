@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "grid_recipe_filter:smoke_ingot"
+    }
+  ],
+  "result": {
+    "id": "grid_recipe_filter:smoke_plate",
+    "count": 1
+  },
+  "show_notification": false
+}
