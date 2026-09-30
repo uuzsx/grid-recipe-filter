@@ -1,0 +1,27 @@
+license="MIT"
+
+[[mods]]
+modId="grid_recipe_filter"
+version="${mod_version}"
+displayName="Grid Recipe Filter"
+authors="幼幼紫"
+logoFile="logo.png"
+displayURL="https://github.com/uuzsx/grid-recipe-filter"
+description='''可以直接在原版配方书中查找合成格里的材料可以用于哪些工作台配方。'''
+
+[[mixins]]
+config="grid_recipe_filter.mixins.json"
+
+[[dependencies.grid_recipe_filter]]
+modId="neoforge"
+type="required"
+versionRange="[26.1.2.71,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.grid_recipe_filter]]
+modId="minecraft"
+type="required"
+versionRange="[26.1.2]"
+ordering="NONE"
+side="BOTH"
