@@ -1,0 +1,15 @@
+{
+  "grid_recipe_filter.button": "M",
+  "grid_recipe_filter.on": "on",
+  "grid_recipe_filter.off": "off",
+  "grid_recipe_filter.narration": "Grid material filter: %s. Control + G to toggle.",
+  "grid_recipe_filter.tooltip.enabled": "Material filter: ON (Ctrl+G)\nOnly recipes using every material type in the crafting grid.\nIgnores position and quantity. Click to show all recipes.",
+  "grid_recipe_filter.tooltip.disabled": "Material filter: OFF (Ctrl+G)\nClick to filter recipes by the crafting grid materials.",
+  "grid_recipe_filter.configuration.enabled": "Filter by crafting grid materials",
+  "grid_recipe_filter.configuration.enabled.tooltip": "Filter the vanilla crafting recipe book using input material types. Ignores position and quantity.",
+  "grid_recipe_filter.configuration.allCraftingRecipes": "Show all crafting recipes",
+  "grid_recipe_filter.configuration.allCraftingRecipes.tooltip": "Include locked and 3x3 recipes when the server also has this mod. Locked recipes are previews only.",
+  "grid_recipe_filter.catalog.full": "Catalog: all crafting recipes, including locked recipes",
+  "grid_recipe_filter.catalog.known": "Catalog: unlocked recipes",
+  "grid_recipe_filter.requires_workbench": "Requires a 3x3 crafting table. Open one to see all ingredients."
+}

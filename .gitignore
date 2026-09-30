@@ -1,8 +1,5 @@
-**/.gradle/
-**/build/
-**/run/
-**/run-smoke/
-**/.idea/
+.gradle/
+build/
+run/
+.idea/
 *.iml
-.DS_Store
-Thumbs.db
