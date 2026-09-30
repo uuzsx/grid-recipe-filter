@@ -1,0 +1,8 @@
+**/.gradle/
+**/build/
+**/run/
+**/run-smoke/
+**/.idea/
+*.iml
+.DS_Store
+Thumbs.db

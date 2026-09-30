@@ -1,0 +1,9 @@
+737fcd5fdcd9c11296346d6df0e1109099b3121a0ff5064b208cdee83cd5a25d  grid_recipe_filter-1.21.1-neoforge-0.3.0.jar
+48cfc206d3acb7155414e39868ae919e339a9c16321875744db03e3eceaaa1f2  grid_recipe_filter-1.21.2-neoforge-0.3.0.jar
+e1df959c0824565f3608192f17bffd0e910f2f551aa8c4d24ee406cdd4f6bd22  grid_recipe_filter-26.1.1-neoforge-0.3.0.jar
+c7465343f245df22fd3dbc940b9afaada9b7163201014d20dab992f0936bde25  grid_recipe_filter-26.1.2-neoforge-0.3.0.jar
+ec9d062473c0ed1f96da9ad93a568040626f96a49b76b058c6212108a689e2b5  grid_recipe_filter-26.2-neoforge-0.3.0.jar
+7f03d1172ff510e78bcebc1a7b7774d833888e39bcb084b4d5fd16464b41ef37  grid_recipe_filter-26.3-neoforge-0.3.0.jar
+9a9570ac4cd7363d57e27fbaa832c79c1c16f6f187eb46b127532dd54029e9ad  grid-recipe-filter-0.3.0-all-neoforge.zip
+66b4ae0a0cad9e48670a9988a82abb847ea6218d25e5f1b4b182c875fd748505  grid-recipe-filter-0.3.0-source.zip
+a501cb3f5ea2433f991cf41ffca2013706d4ad10300fbeefcaf9556dfaf6b825  grid-recipe-filter-0.3.0-verification.zip

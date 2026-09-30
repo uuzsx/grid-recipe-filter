@@ -1,0 +1,80 @@
+[
+  {
+    "minecraft": "1.21.1",
+    "neoforgeMinimum": "21.1.1",
+    "java": 21,
+    "jar": "grid_recipe_filter-1.21.1-neoforge-0.3.0.jar",
+    "version": "0.3.0",
+    "unitTests": 8,
+    "integrationChecks": 62,
+    "sha256": "737fcd5fdcd9c11296346d6df0e1109099b3121a0ff5064b208cdee83cd5a25d",
+    "sourceBranch": "1.21.1",
+    "author": "幼幼紫",
+    "license": "MIT"
+  },
+  {
+    "minecraft": "1.21.2",
+    "neoforgeMinimum": "21.2.0-beta",
+    "java": 21,
+    "jar": "grid_recipe_filter-1.21.2-neoforge-0.3.0.jar",
+    "version": "0.3.0",
+    "unitTests": 8,
+    "integrationChecks": 67,
+    "sha256": "48cfc206d3acb7155414e39868ae919e339a9c16321875744db03e3eceaaa1f2",
+    "sourceBranch": "1.21.2",
+    "author": "幼幼紫",
+    "license": "MIT"
+  },
+  {
+    "minecraft": "26.1.1",
+    "neoforgeMinimum": "26.1.1.0-beta",
+    "java": 25,
+    "jar": "grid_recipe_filter-26.1.1-neoforge-0.3.0.jar",
+    "version": "0.3.0",
+    "unitTests": 8,
+    "integrationChecks": 67,
+    "sha256": "e1df959c0824565f3608192f17bffd0e910f2f551aa8c4d24ee406cdd4f6bd22",
+    "sourceBranch": "26.1.1",
+    "author": "幼幼紫",
+    "license": "MIT"
+  },
+  {
+    "minecraft": "26.1.2",
+    "neoforgeMinimum": "26.1.2.71",
+    "java": 25,
+    "jar": "grid_recipe_filter-26.1.2-neoforge-0.3.0.jar",
+    "version": "0.3.0",
+    "unitTests": 8,
+    "integrationChecks": 67,
+    "sha256": "c7465343f245df22fd3dbc940b9afaada9b7163201014d20dab992f0936bde25",
+    "sourceBranch": "26.1.2",
+    "author": "幼幼紫",
+    "license": "MIT"
+  },
+  {
+    "minecraft": "26.2",
+    "neoforgeMinimum": "26.2.0.57",
+    "java": 25,
+    "jar": "grid_recipe_filter-26.2-neoforge-0.3.0.jar",
+    "version": "0.3.0",
+    "unitTests": 8,
+    "integrationChecks": 67,
+    "sha256": "ec9d062473c0ed1f96da9ad93a568040626f96a49b76b058c6212108a689e2b5",
+    "sourceBranch": "26.2",
+    "author": "幼幼紫",
+    "license": "MIT"
+  },
+  {
+    "minecraft": "26.3",
+    "neoforgeMinimum": "26.3.0.0-beta",
+    "java": 25,
+    "jar": "grid_recipe_filter-26.3-neoforge-0.3.0.jar",
+    "version": "0.3.0",
+    "unitTests": 8,
+    "integrationChecks": 67,
+    "sha256": "7f03d1172ff510e78bcebc1a7b7774d833888e39bcb084b4d5fd16464b41ef37",
+    "sourceBranch": "26.3",
+    "author": "幼幼紫",
+    "license": "MIT"
+  }
+]
