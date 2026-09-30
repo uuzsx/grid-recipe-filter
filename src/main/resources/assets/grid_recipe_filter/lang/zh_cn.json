@@ -1,0 +1,15 @@
+{
+  "grid_recipe_filter.button": "材",
+  "grid_recipe_filter.on": "开启",
+  "grid_recipe_filter.off": "关闭",
+  "grid_recipe_filter.narration": "材料筛选：%s。按 Ctrl+G 切换。",
+  "grid_recipe_filter.tooltip.enabled": "材料筛选：开启（Ctrl+G）\n只显示会用到合成格中所有材料种类的配方。\n忽略摆放位置和数量。点击恢复全部配方。",
+  "grid_recipe_filter.tooltip.disabled": "材料筛选：关闭（Ctrl+G）\n点击根据合成格里的材料筛选配方。",
+  "grid_recipe_filter.configuration.enabled": "按合成格材料筛选",
+  "grid_recipe_filter.configuration.enabled.tooltip": "按输入材料种类筛选原版合成配方书，忽略位置和数量。",
+  "grid_recipe_filter.configuration.allCraftingRecipes": "显示全部工作台配方",
+  "grid_recipe_filter.configuration.allCraftingRecipes.tooltip": "服务端也安装本模组时，包含未解锁配方及背包中无法直接制作的 3×3 配方。未解锁配方仅供预览。",
+  "grid_recipe_filter.catalog.full": "目录：全部工作台配方（包含未解锁）",
+  "grid_recipe_filter.catalog.known": "目录：已解锁配方",
+  "grid_recipe_filter.requires_workbench": "此配方需要 3×3 工作台，请打开工作台查看完整材料"
+}

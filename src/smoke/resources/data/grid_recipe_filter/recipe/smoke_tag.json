@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["#grid_recipe_filter:smoke_metals", "minecraft:stick"],
+  "result": {"id": "minecraft:iron_sword", "count": 1},
+  "show_notification": false
+}

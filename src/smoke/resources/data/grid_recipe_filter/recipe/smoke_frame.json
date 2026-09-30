@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["III", "I I", "III"],
+  "key": {"I": "grid_recipe_filter:smoke_ingot"},
+  "result": {"id": "minecraft:iron_block", "count": 1},
+  "show_notification": false
+}

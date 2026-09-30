@@ -26,3 +26,5 @@
 各版本源码：[1.21.1](https://github.com/uuzsx/grid-recipe-filter/tree/1.21.1) · [1.21.2](https://github.com/uuzsx/grid-recipe-filter/tree/1.21.2) · [26.1.1](https://github.com/uuzsx/grid-recipe-filter/tree/26.1.1) · [26.1.2](https://github.com/uuzsx/grid-recipe-filter/tree/26.1.2) · [26.2](https://github.com/uuzsx/grid-recipe-filter/tree/26.2) · [26.3](https://github.com/uuzsx/grid-recipe-filter/tree/26.3)。
 
 采用 [MIT 许可证](LICENSE)。
+
+本分支对应 **Minecraft 1.21.2 / NeoForge**。
